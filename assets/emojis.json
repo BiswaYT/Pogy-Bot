@@ -1,0 +1,64 @@
+{
+  "image":"<:image_emoji:887551843817914370>", 
+  "currency":"<:currency:887551981323968552>", 
+
+  "games":"<:admin:887552097262919740> ",  
+  "admin":"<:admin2:887552283687133214> ",
+  "configs":"<:config:887552371562000384>  ",
+  "utils":"<:utils:887552443867598878> ", 
+  "success": "<:success:887553038020124712>  ",
+  
+  "green":"<:greensquare:887553168819511336> ",
+  "red":"<:redsquare:887553258552434699>",
+
+  "dot": "<:purple_pogy_dot:788726274940076082> ",
+  "fail": "<:fail:790491137289879583>  ",
+
+  "misc": "<:speaker:790146754645196800> ",
+  "mod": "<:moderation_emoji:788428121375768586>",
+
+  "pogger1": "<:poggerz:790987235591323659> ",
+  "heartbreak":"<:heartbreak:790987215324184606> ",
+  
+  "lock": "<:lock:790494601189261323>  ",
+  "unlock": "<:unlock:790494567753187338> ",
+
+  "owner": "<:owner:790146744348442624>  ",
+
+  "discord_employee":"<:discordemployee:790152842382934038>  ",
+  "discord_partner": "<:partnered:790152935152680960>",
+  "bughunter_level_1": "<:bughunterl1:790152798623891466>  ",
+  "bughunter_level_2": "<:bughunterl2:790152838763511808> ",
+  "hypesquad_events": "<:hypesquadevents:790152901569282048> ",
+  "house_brilliance": "<:brilliance:790152798288871454>  ",
+  "house_bravery": "<:housebravery:790152899769925643> ",
+  "house_balance": "<:housebalance:790152901259165726>  ",
+  "early_supporter": "<:earlysupporter:790152860742451221> ",
+  "verified_bot": "<:verifiedbot:790152985870991360> ",
+  "verified_developer": "<:verifieddev:790152986382303253> ",
+
+
+  "online": "<:online:790132184018059304> ",
+  "idle": "<:Idle:790132098806972426>  ",
+  "offline": "<:offline:790132057523093515>  ",
+  "dnd": "<:donotdisturb:790132081136893962> ",
+  "verify":"<:success:788438144818217000>",
+
+  "voice": "<:speaker:790146754645196800> ",
+
+  "pong": "<:online:790132184018059304>",
+
+  "altdetector":"<:alt:887556003590197260>",
+  "applications":"<:form:887556702210248724>",
+  "config":"<:config:887552371562000384>",
+  "utility":"<:utils:887552443867598878>",
+  "economy":"<:currency:887551981323968552>",
+  "fun":"<:fun:887557687397720105> ",
+  "images":"<:image_emoji:887551843817914370>",
+  "information":"<:info:887557094956474389> ",
+  "moderation":"<:mod:887557817882542081>",
+  "nsfw":"<:nsfw:887556559792656414> ",
+  "reactionrole":"<:rr:887557440885891082>",
+  "tickets":"<:ticket:826845944669536266>"
+
+}
