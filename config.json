@@ -1,0 +1,13 @@
+{
+  "mongodb_url": "mongodb+srv://TSGBiswa_0016:BISWA968866B@cluster0.ezlhv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "alexflipnoteApiKey":"",
+  "developers": ["729575913208938547", "729575913208938547"],
+  "datadogApiKey": "",
+  "dashboard":"true", 
+  "prefix":"p!",
+  "arc":"",
+  "youtube_key":"",
+  "cat_api_key":"",
+  "webhook_id":"",
+  "webhook_url":"" 
+}
