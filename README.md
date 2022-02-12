@@ -35,10 +35,6 @@
   <a href="#setting-up">Setting Up</a>
   •
   <a href="#license">License</a>
-  •
-  <a href="#donate">Donate</a>
-  •
-  <a href="#credits">Credits</a>
 </p>
 
 ## About
