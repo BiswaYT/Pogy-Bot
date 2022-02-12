@@ -1,6 +1,6 @@
 <h1 align="center">
  <br>
-  <a href="https://discord.gg/gU7XAxTpX5"><img src="https://pogy.xyz/thumb.png"></a>
+  <a href="https://discord.gg/3zb8aSxj52"><img src="https://pogy.xyz/thumb.png"></a>
   <br>
   Pogy the Discord Bot
   <br>
