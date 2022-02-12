@@ -39,7 +39,7 @@
 
 ## About
 
-Pogy is a discontinued discord bot that took over 4 months of work to make. I decided to make the bot open sourced to whoever wants to run a copy in their server! You can click [this](https://pogy.xyz/invite) link to invite the official Bot! Also, you can join the official [Support Server](https://discord.gg/gU7XAxTpX5) for assistance.
+Pogy is a discontinued discord bot that took over 4 months of work to make. I decided to make the bot open sourced to whoever wants to run a copy in their server! You can click [this](https://Pogy-1.bqnbiswa.repl.co) link to invite the official Bot! Also, you can join the official [Support Server](https://discord.gg/3zb8aSxj52) for assistance.
 
 If you liked this repository, feel free to leave a star ⭐ and follow me, it actually means a lot.
 
@@ -74,7 +74,7 @@ Pogy even has the following features on the website
   * Built in TOP.gg API
  
  <h1 align="center">
-  <a href="https://discord.gg/gU7XAxTpX5"><img src="https://i.imgur.com/On7mMNg.jpg["></a>
+  <a href="https://discord.gg/3zb8aSxj52"><img src="https://i.imgur.com/On7mMNg.jpg["></a>
 </h1>
 
   
@@ -82,18 +82,18 @@ Pogy even has the following features on the website
  With Pogy You can even log everything using webhooks. ( you will have to change each webhook using visual studio code )
 
 <h1 align="center">
-  <a href="https://discord.gg/gU7XAxTpX5"><img src="https://i.imgur.com/vbGuLdL.jpg"></a>
+  <a href="https://discord.gg/3zb8aSxj52"><img src="https://i.imgur.com/vbGuLdL.jpg"></a>
 </h1>
 
 ## Installation
 
 First clone the repo:
 ```
-git clone https://github.com/diwasatreya/Pogy.git
+git clone https://github.com/BiswaYT/Pogy.git
 ```
 Repl.it
 ```
-https://repl.it/github/diwasatreya/Pogy
+https://repl.it/github/BiswaYT/Pogy-Bot
 ```
 
 
@@ -104,7 +104,7 @@ Your `config.json` should look like this:
 {
   "main_token": process.env.token, 
   "mongodb_url": "", //mongo db URL
-  "alexflipnoteApiKey":"", //get from https://discord.gg/bsUDZqUbyz
+  "alexflipnoteApiKey":"", //get from https://discord.gg/3zb8aSxj52
   "developers": ["", ""], //developers ID
   "datadogApiKey": "", // for statistics (optional)
   "dashboard":"false", 
@@ -146,7 +146,7 @@ TOKEN=BOT_TOKEN
 `https://domain/window`
 `https://domain/thanks`
 
-Pease make sure you have enabled `Privileged Intents` on your Discord [developer portal](https://discordapp.com/developers/applications/). You can find these intents under the "Bot" section, and there are two ticks you have to switch on. For more information on Gateway Intents, check out [this](https://discordjs.guide/popular-topics/intents.html#the-intents-bit-field-wrapper) link.
+Pease make sure you have enabled `Privileged Intents` on your [developer portal](https://discordapp.com/developers/applications/). You can find these intents under the "Bot" section, and there are two ticks you have to switch on. For more information on Gateway Intents, check out [this](https://discordjs.guide/popular-topics/intents.html#the-intents-bit-field-wrapper) link.
 
 You can launch the bot with `node shard.js` 
 
