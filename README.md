@@ -170,16 +170,3 @@ You can launch the bot with `node shard.js`
 ## License
 
 Released under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0) license.
-
-## Donate
-
-You can donate Pogy and make it stronger than ever [by clicking here](https://paypal.me/pogybot)!
-
-## Credits
-
-* **Peter Hanania** - *head developer* - [github](https://github.com/peterhanania)
-* **Romeo** - *helper* - [github](https://github.com/diwasatreya)
-* **Wlegit** - *developer*  - [github](https://github.com/wlegit)
-* **Slayer** - *Contributor - Command Handler base* [github](https://github.com/GhostSlayer)
-* **Ace** - *Contributor - Embed builder* [github](https://github.com/Glitchii)
-* **Majo** - *Dashboard base + css* - [github](https://github.com/IgorKowalczyk/)
